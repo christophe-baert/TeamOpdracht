@@ -7,7 +7,8 @@ namespace TeamOpdracht
         static void Main(string[] args)
         {
             Console.WriteLine("Joachim");
-            
+            Console.WriteLine("Christophe");
+
             MyName();
             
         }

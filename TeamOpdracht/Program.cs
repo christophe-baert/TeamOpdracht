@@ -8,7 +8,7 @@ namespace TeamOpdracht
         {
             Console.WriteLine("Joachim");
             
-            MyName();
+            MyName();          
             
         }
 

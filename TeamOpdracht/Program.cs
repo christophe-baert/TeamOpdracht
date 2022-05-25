@@ -8,6 +8,12 @@ namespace TeamOpdracht
         {
             Console.WriteLine("Joachim");
             
+            MyName();
+        }
+
+        static void MyName()
+        {
+            Console.WriteLine("Christophe");
         }
     }
 

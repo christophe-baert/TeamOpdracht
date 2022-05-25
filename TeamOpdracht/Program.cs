@@ -8,5 +8,9 @@ namespace TeamOpdracht
         {
             Console.WriteLine("Joachim");
         }
+                public void MethodValter()
+        { }
+
     }
+
 }

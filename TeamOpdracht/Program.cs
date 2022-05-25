@@ -16,14 +16,10 @@ namespace TeamOpdracht
         {
             Console.WriteLine("Christophe");
         }
-
-        public void WriteName()
+        
+        static void JoachimD()
         {
-        Console.WriteLine("Naam is Joachim");
-    }
-
         }
     }
-
-    
+   
 }

@@ -7,10 +7,22 @@ namespace TeamOpdracht
         static void Main(string[] args)
         {
             Console.WriteLine("Joachim");
+            
+            MyName();
+        }
+
+        static void MyName()
+        {
+            Console.WriteLine("Christophe");
         }
                 public void MethodValter()
         { }
 
+    }
+
+    public void WriteName()
+    {
+        Console.WriteLine("Naam is Joachim");
     }
 
 }

@@ -18,7 +18,7 @@ namespace TeamOpdracht
 
         static void MyName()
         {
-            Console.WriteLine("Christophe");
+            Console.WriteLine("Christopheee");
         }
         
         static void JoachimD()

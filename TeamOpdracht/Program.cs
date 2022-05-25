@@ -12,6 +12,8 @@ namespace TeamOpdracht
             Console.WriteLine("Valter");
             MyName();
             
+            MyName();          
+            
         }
 
         static void MyName()

@@ -20,6 +20,9 @@ namespace TeamOpdracht
         static void JoachimD()
         {
         }
+
+        public void Valter()
+        { }
     }
    
 }

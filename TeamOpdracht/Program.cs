@@ -20,6 +20,8 @@ namespace TeamOpdracht
         public void WriteName()
         {
         Console.WriteLine("Naam is Joachim");
+    }
+
         }
     }
 

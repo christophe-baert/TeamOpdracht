@@ -6,5 +6,8 @@ namespace TeamOpdracht
 {
     class Joachim
     {
+        Console.ReadLine();
+        
+
     }
 }

@@ -6,7 +6,7 @@ namespace TeamOpdracht
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("Joachim");
         }
     }
 }
